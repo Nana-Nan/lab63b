@@ -20,12 +20,11 @@
 ## ศึกษาข้อมูลเบื้องต้น
 1. การติดตั้งโปรแกรม
 * ดูได้จากวิดีโอ 
-  * https://youtu.be/9aF0upI9Gic
-  * https://youtu.be/ocrGdJoP90Y
-  * ตัวอย่างโปรแกรม https://github.com/choompol-boonmee/lab63b/tree/master/examples
+  * [การเตรียมโปรแกรม](https://youtu.be/9aF0upI9Gic)
+  * [ตัวอย่างการลงโปรแกรม](https://youtu.be/ocrGdJoP90Y)
+  * [ไฟล์ตัวอย่างโปรแกรม] (https://github.com/choompol-boonmee/lab63b/tree/master/examples)
 2. ข้อมูลเกี่ยวกับซอร์ฟแวร์ที่จะใช้เขียนโปรแกรม  
-* platform io
-  * https://platformio.org/
+* [platform io](https://platformio.org/)
 ## วิธีการทำการทดลอง
 1. เริ่มจากการนำไมโครคอนโทรเลอร์ต่อเข้ากับ USB to serial port 
 2. ต่อ USB to serial port เข้ากับคอมพิวเตอร์โดยอุปกรณ์พ่วง USB
