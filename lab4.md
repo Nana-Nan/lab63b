@@ -29,15 +29,15 @@
 
 3. อัปโหลดโปรแกรมลงในไมโครคอนโทรเลอร์ โดยใช้คำสั่ง **pio run -t upload**
 
-   ![Image](https://github.com/Nana-Nan/image/blob/main/4-2.jpg)
+   ![Image](https://github.com/Nana-Nan/image/blob/main/4-1.jpg)
 
 4. ในขณะที่โปรแกรมกำลังรัน ให้ไปกดที่ปุ่มดำของบอร์ดค้างไว้ แล้วกดปุ่มแดง 1 ครั้งเพื่อรีเซ็ท
 
-   ![Image](https://github.com/Nana-Nan/image/blob/main/4-3.jpg)
+   ![Image](https://github.com/Nana-Nan/image/blob/main/4-2.jpg)
 
 5. เมื่อโปรแกรมรันเสร็จให้ใช้คำสั่ง pio device monitor เพื่อดูผลลัพธ์ที่แสดงผลออกมาจากคอมพิวเตอร์ บันทึกผล
 
-   ![Image](https://github.com/Nana-Nan/image/blob/main/4-4.jpg)
+   ![Image](https://github.com/Nana-Nan/image/blob/main/4-3.jpg)
 
 6. นำสายไฟเส้นสีขาว(input) จิ้มไปที่สีดำ บันทึกผล
 
@@ -55,7 +55,7 @@
 ## การบันทึกผลการทดลอง
 * เมื่อโปรแกรมรันเสร็จให้ใช้คำสั่ง pio device monitor เพื่อดูผลลัพธ์ที่แสดงผลออกมาจากคอมพิวเตอร์ 
 
-   ![Image](https://github.com/Nana-Nan/image/blob/main/4-1.jpg)
+   ![Image](https://github.com/Nana-Nan/image/blob/main/4-4.jpg)
 
 * นำสายไฟเส้นสีขาว(input) จิ้มไปที่สีดำ 
 
