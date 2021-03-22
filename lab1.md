@@ -8,11 +8,11 @@
 ## อุปกรณ์ที่ใช้
 1. ไมโครคอนโทรเลอร์ ESP-01
 
-   ![Image](https://3dstar.ro/image/cache/10/catalog/3dstar/esp-01/ESP-01-module-2-1000x1000.jpg)
+   ![Image](https://cdn-images-1.medium.com/max/1200/1*RMM4luR-BC8yrsDbmSlkBA.png)
 
 2. บอร์ด
 
-   ![Image](https://www.robotics.org.za/image/cache/catalog/generic/ESP-01-KIT/ESP-01-KIT-000-500x500.jpg)
+   ![Image](https://daneshjookit.com/5924-home_default/esp8266-to-usb.jpg)
 
 3. อุปกรณ์ต่อพ่วง USB
 4. อุปกรณ์เขียนโปรแกรม เช่น คอมพิวเตอร์ โน้ตบุ๊ค ฯลฯ
@@ -35,10 +35,12 @@
 6. ให้กดปุ่มรีเซ็ท (ปุ่มแดง) บันทึกผลการทดลอง
 
 ## การบันทึกผลการทดลอง
-   จากการทดลองจะเห็นว่าโปรแกรมมีการรันค่าออกมาเพิ่มขึ้นทีละหนึ่ง ตามจำนวนวินาที
+   จากการทดลองจะเห็นว่าหน้าต่างโปรแกรมมีตัวเลขปรากฏออกมาทุก ๆ 1 วินาที โดยค่าจะเพิ่มขึ้นทีละหนึ่ง 
 ![Image](https://github.com/Nana-Nan/image/blob/main/1-1.jpg)
-และเมื่อกดรีเซ็ทค่าจะเริ่มใหม่จาก 1 เพิ่มขึ้นทีละหนึ่งไปเรื่อย ๆ ต่อหนึ่งวินาที
+
+และเมื่อกดรีเซ็ทค่าจะเริ่มใหม่จาก 1 เพิ่มขึ้นทีละหนึ่งไปเรื่อย ๆ
 ![Image](https://github.com/Nana-Nan/image/blob/main/1-2.jpg)
+
 ## อภิปรายผลการทดลอง
 
 ## คำถามหลังการทดลอง
