@@ -20,15 +20,35 @@
 
 ## วิธีการทำการทดลอง
 1. เริ่มจากการต่อ USB to serial port เข้ากับคอมพิวเตอร์โดยอุปกรณ์พ่วง USB และนำไมโครคอนโทรลเลอร์ต่อเข้ากับ USB to serial port
+
    ![Image](https://github.com/Nana-Nan/image/blob/main/1-3.jpg)
+   
 2. เปิด command prompt เข้าไปยังโฟลเดอร์ที่มีตัวอย่างโปรแกรม โดยในที่นี้จะใช้ตัวอย่าง 06_Wifi-AP-Web-Server
+
+   ![Image](https://github.com/Nana-Nan/image/blob/main/6-1.jpg)
+
 3. อัปโหลดโปรแกรมลงในไมโครคอนโทรเลอร์ โดยใช้คำสั่ง **pio run -t upload**
+
+   ![Image](https://github.com/Nana-Nan/image/blob/main/6-2.jpg)
+
 4. ในขณะที่โปรแกรมกำลังรัน ให้ไปกดที่ปุ่มดำของบอร์ดค้างไว้ แล้วกดปุ่มแดง 1 ครั้งเพื่อรีเซ็ท
+
+   ![Image](https://github.com/Nana-Nan/image/blob/main/6-3.jpg)
+
 5. เมื่อโปรแกรมรันเสร็จให้ใช้คำสั่ง **pio device monitor** เพื่อดูผลลัพธ์ที่แสดงผลออกมาจากคอมพิวเตอร์
-6. ให้กดปุ่มรีเซ็ท (ปุ่มแดง) 
-7. ใช้โทรศัพท์มือถือค้นหาไวไฟ บันทึกผลการทดลอง
+
+   ![Image](https://github.com/Nana-Nan/image/blob/main/6-4.jpg)
+
+6. ใช้โทรศัพท์มือถือค้นหาไวไฟ บันทึกผลการทดลอง
 
 ## การบันทึกผลการทดลอง
+   จากการทดลองเมื่อรันโปรแกรมเสร็จเรียบร้อย
+   
+   ![Image](https://github.com/Nana-Nan/image/blob/main/6-5.jpg)
+   
+   และเมื่อทำการค้นหาจากโทรศัพท์
+   
+   ![Image](https://github.com/Nana-Nan/image/blob/main/6-6.jpg)   
 
 ## อภิปรายผลการทดลอง
 
