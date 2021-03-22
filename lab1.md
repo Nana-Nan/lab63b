@@ -22,7 +22,7 @@
 * ดูได้จากวิดีโอ 
   * [การเตรียมโปรแกรม](https://youtu.be/9aF0upI9Gic)
   * [ตัวอย่างการลงโปรแกรม](https://youtu.be/ocrGdJoP90Y)
-  * [ไฟล์ตัวอย่างโปรแกรม] (https://github.com/choompol-boonmee/lab63b/tree/master/examples)
+  * [ไฟล์ตัวอย่างโปรแกรม](https://github.com/choompol-boonmee/lab63b/tree/master/examples)
 2. ข้อมูลเกี่ยวกับซอร์ฟแวร์ที่จะใช้เขียนโปรแกรม  
 * [platform io](https://platformio.org/)
 ## วิธีการทำการทดลอง
