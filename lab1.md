@@ -22,6 +22,7 @@
 * ดูได้จากวิดีโอ 
   * https://youtu.be/9aF0upI9Gic
   * https://youtu.be/ocrGdJoP90Y
+  * ตัวอย่างโปรแกรม https://github.com/choompol-boonmee/lab63b/tree/master/examples
 2. ข้อมูลเกี่ยวกับซอร์ฟแวร์ที่จะใช้เขียนโปรแกรม  
 * platform io
   * https://platformio.org/
@@ -34,6 +35,7 @@
 6. ให้กดปุ่มรีเซ็ท (ปุ่มแดง) บันทึกผลการทดลอง
 
 ## การบันทึกผลการทดลอง
+![Image]
 
 ## อภิปรายผลการทดลอง
 
