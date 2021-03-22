@@ -26,7 +26,7 @@
    * [platform io](https://platformio.org/)
 
 ## วิธีการทำการทดลอง
-1. เริ่มจากการนำไมโครคอนโทรลเลอร์ต่อเข้ากับ USB to serial port และต่อ USB to serial port เข้ากับคอมพิวเตอร์โดยอุปกรณ์พ่วง USB
+1. เริ่มจากการต่อ USB to serial port เข้ากับคอมพิวเตอร์โดยอุปกรณ์พ่วง USB และนำไมโครคอนโทรลเลอร์ต่อเข้ากับ USB to serial port
    ![Image](https://github.com/Nana-Nan/image/blob/main/1-3.jpg)
 2. เปิด command prompt เข้าไปยังโฟลเดอร์ที่มีตัวอย่างโปรแกรม โดยในที่นี้จะใช้ตัวอย่าง 01_Serial-Monitor
    ![Image](https://github.com/Nana-Nan/image/blob/main/1-4.jpg)
