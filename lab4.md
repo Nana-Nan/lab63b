@@ -4,7 +4,18 @@
 1. เพื่อ
 
 ## อุปกรณ์ที่ใช้
-1. ไมโครคอนโทรเลอร์
+1. ไมโครคอนโทรลเลอร์ ESP-01
+
+   ![Image](https://cdn-images-1.medium.com/max/1200/1*RMM4luR-BC8yrsDbmSlkBA.png)
+
+2. USB to serial port
+
+   ![Image](https://daneshjookit.com/5924-home_default/esp8266-to-usb.jpg)
+
+3. อุปกรณ์ต่อพ่วง USB
+4. อุปกรณ์เขียนโปรแกรม เช่น คอมพิวเตอร์ โน้ตบุ๊ค ฯลฯ
+5. Adapter
+6. เซนเซอร์แสง
 
 ## ศึกษาข้อมูลเบื้องต้น
 
