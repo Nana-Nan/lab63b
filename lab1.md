@@ -7,7 +7,13 @@
 
 ## อุปกรณ์ที่ใช้
 1. ไมโครคอนโทรเลอร์ ESP-01
+
+   ![Image](https://3dstar.ro/image/cache/10/catalog/3dstar/esp-01/ESP-01-module-2-1000x1000.jpg)
+
 2. บอร์ด
+
+   ![Image](https://www.robotics.org.za/image/cache/catalog/generic/ESP-01-KIT/ESP-01-KIT-000-500x500.jpg)
+
 3. อุปกรณ์ต่อพ่วง USB
 4. อุปกรณ์เขียนโปรแกรม เช่น คอมพิวเตอร์ โน้ตบุ๊ค ฯลฯ
 
