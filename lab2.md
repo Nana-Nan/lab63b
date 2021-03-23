@@ -24,6 +24,7 @@
 2. ข้อมูลเกี่ยวกับซอร์ฟแวร์ที่จะใช้เขียนโปรแกรม  
    * [platform io](https://platformio.org/)
 3. [ข้อมูลเกี่ยวกับไมโครคอนโทรลเลอร์ ESP-01](https://docs.platformio.org/en/latest/boards/espressif8266/esp01_1m.html)
+4. [ตัวอย่างการทดลอง](https://youtu.be/yBjab0UNuB8)
 
 ## วิธีการทำการทดลอง
 1. เริ่มจากการต่อ USB to serial port เข้ากับคอมพิวเตอร์โดยอุปกรณ์พ่วง USB และนำไมโครคอนโทรลเลอร์ต่อเข้ากับ USB to serial port
