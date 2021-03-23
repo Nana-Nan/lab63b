@@ -17,6 +17,13 @@
 4. อุปกรณ์เขียนโปรแกรม เช่น คอมพิวเตอร์ โน้ตบุ๊ค ฯลฯ
 
 ## ศึกษาข้อมูลเบื้องต้น
+1. การติดตั้งโปรแกรม
+   * [การเตรียมโปรแกรม](https://youtu.be/9aF0upI9Gic)
+   * [ตัวอย่างการลงโปรแกรม](https://youtu.be/ocrGdJoP90Y)
+   * [ไฟล์ตัวอย่างโปรแกรม](https://github.com/choompol-boonmee/lab63b/tree/master/examples)
+2. ข้อมูลเกี่ยวกับซอร์ฟแวร์ที่จะใช้เขียนโปรแกรม  
+   * [platform io](https://platformio.org/)
+3. [ข้อมูลเกี่ยวกับไมโครคอนโทรลเลอร์ ESP-01](https://docs.platformio.org/en/latest/boards/espressif8266/esp01_1m.html)
 
 ## วิธีการทำการทดลอง
 1. เริ่มจากการต่อ USB to serial port เข้ากับคอมพิวเตอร์โดยอุปกรณ์พ่วง USB และนำไมโครคอนโทรลเลอร์ต่อเข้ากับ USB to serial port
