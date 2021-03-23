@@ -20,6 +20,17 @@
    ![Image](https://github.com/Nana-Nan/image/blob/main/3-6.jpg)
 
 ## ศึกษาข้อมูลเบื้องต้น
+1. การติดตั้งโปรแกรม
+   * [การเตรียมโปรแกรม](https://youtu.be/9aF0upI9Gic)
+   * [ตัวอย่างการลงโปรแกรม](https://youtu.be/ocrGdJoP90Y)
+   * [ไฟล์ตัวอย่างโปรแกรม](https://github.com/choompol-boonmee/lab63b/tree/master/examples)
+2. ข้อมูลเกี่ยวกับซอร์ฟแวร์ที่จะใช้เขียนโปรแกรม  
+   * [platform io](https://platformio.org/)
+3. [ข้อมูลเกี่ยวกับไมโครคอนโทรลเลอร์ ESP-01](https://docs.platformio.org/en/latest/boards/espressif8266/esp01_1m.html)
+4. ตัวอย่างการทดลอง
+   [part 1](https://youtu.be/6JnhaUILGuw)
+   [part 2](https://youtu.be/nFqoZT26U5k)
+5. [รีเลย์ (relay)](http://www.psptech.co.th/%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B9%8Crelay%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-15696.page)
 
 ## วิธีการทำการทดลอง
 1. เริ่มจากการต่อ USB to serial port เข้ากับคอมพิวเตอร์โดยอุปกรณ์พ่วง USB และต่อ USB to serial port เข้ากับ Adapter สุดท้ายต่อ Adapte เข้ากับไมโครคอนโทรลเลอร์
