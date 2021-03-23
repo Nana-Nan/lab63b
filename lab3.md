@@ -28,8 +28,8 @@
    * [platform io](https://platformio.org/)
 3. [ข้อมูลเกี่ยวกับไมโครคอนโทรลเลอร์ ESP-01](https://docs.platformio.org/en/latest/boards/espressif8266/esp01_1m.html)
 4. ตัวอย่างการทดลอง
-   [part 1](https://youtu.be/6JnhaUILGuw)
-   [part 2](https://youtu.be/nFqoZT26U5k)
+   * [part 1](https://youtu.be/6JnhaUILGuw)
+   * [part 2](https://youtu.be/nFqoZT26U5k)
 5. [รีเลย์ (relay)](http://www.psptech.co.th/%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B9%8Crelay%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-15696.page)
 
 ## วิธีการทำการทดลอง
