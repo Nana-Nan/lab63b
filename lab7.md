@@ -107,8 +107,7 @@ void loop()
 			Serial.print(" (");
 			Serial.print(WiFi.RSSI(i));
 			Serial.println(")");
-			Serial.print(WiFi.channel(i));
-			delay(10);
+			delay(10*1000);
 		}
 	}
 	Serial.println("\n\n");
