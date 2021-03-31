@@ -1,9 +1,9 @@
-# การทดลองที่ 7 เรื่อง การเชื่อมต่อ WIFI อัตโนมัติ
+# การทดลองที่ 7 เรื่อง การเชื่อมต่อ WiFi อัตโนมัติ
 
 ## วัตถุประสงค์
 1. เพื่อให้เข้าใจการเขียนโปรแกรมลงในไมโครคอนโทรลเลอร์
-2. เพื่อสร้างอุปกรณ์ในการเชื่อมต่อ WIFI อัตโนมัติ
-3. เพื่อให้ไมโครคอนโทรลเลอร์ปล่อยไวไฟ
+2. เพื่อสร้างอุปกรณ์ในการเชื่อมต่อ WiFi อัตโนมัติ
+3. เพื่อให้ไมโครคอนโทรลเลอร์ปล่อย WiFi
 
 ## อุปกรณ์ที่ใช้
 1. ไมโครคอนโทรลเลอร์ ESP-01 2 บอร์ด
@@ -20,6 +20,7 @@
 3. [ข้อมูลเกี่ยวกับไมโครคอนโทรลเลอร์ ESP-01](https://docs.platformio.org/en/latest/boards/espressif8266/esp01_1m.html)
 4. อ้างอิง 
    * [การใช้งาน ESP8266](http://99thai.com/data/up_show.php?id=1523293577&web=epost)
+   * [ESP8266WiFi](https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html)
 
 ## วิธีการทำการทดลอง
 * ตอนแรก (Lab6.md)
@@ -81,6 +82,37 @@ void loop(void){
 
 ```C
 #include <ESP8266WiFi.h>
+int cnt = 0;
+
+void setup()
+{
+	Serial.begin(115200);
+	WiFi.mode(WIFI_STA);
+	WiFi.disconnect();
+	delay(100);
+	Serial.println("\n\n\n");
+}
+
+void loop()
+{
+	Serial.println("========== เริ่มต้นแสกนหา Wifi ===========");
+	int n = WiFi.scanNetworks();
+	if(n == 0) {
+		Serial.println("NO NETWORK FOUND");
+	} else {
+		for(int i=0; i<n; i++) {
+			Serial.print(i + 1);
+			Serial.print(": ");
+			Serial.print(WiFi.SSID(i));
+			Serial.print(" (");
+			Serial.print(WiFi.RSSI(i));
+			Serial.println(")");
+			Serial.print(WiFi.channel(i));
+			delay(10);
+		}
+	}
+	Serial.println("\n\n");
+}
 
 void setup()
 {
