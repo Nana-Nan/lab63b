@@ -33,8 +33,8 @@
 //#include <WiFiClient.h>
 #include <ESP8266WebServer.h>
 
-const char* ssid = "ESP_WIFI";
-const char* password = "oopieces7512";
+const char* ssid = "ESP_WIFI";							//ตั้งชื่อสัญญาณ WiFi
+const char* password = "oopieces7512";						//ตั้งรหัสเข้าใช้งาน
 
 IPAddress local_ip(192, 168, 1, 1);
 IPAddress gateway(192, 168, 1, 1);
