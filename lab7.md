@@ -108,31 +108,32 @@ void loop()
 			Serial.print(WiFi.RSSI(i));
 			Serial.println(")");
 			delay(10*1000);
+			
+		if (WiFi.SSID(i) == ESP_WIFI)
+			void setup()
+			{
+  				Serial.begin(115200);
+  				Serial.println();
+
+  				WiFi.begin("ESP_WIFI", "oopieces7512");
+
+  				Serial.print("Connecting");
+  				while (WiFi.status() != WL_CONNECTED)
+  				{
+    					delay(500);
+    					Serial.print(".");
+ 			 	}
+  				Serial.println();
+
+  				Serial.print("Connected, IP address: ");
+  				Serial.println(WiFi.localIP());
+			}
+
+			void loop() {}
 		}
 	}
-	Serial.println("\n\n");
 }
 
-void setup()
-{
-  Serial.begin(115200);
-  Serial.println();
-
-  WiFi.begin("ESP_WIFI", "oopieces7512");
-
-  Serial.print("Connecting");
-  while (WiFi.status() != WL_CONNECTED)
-  {
-    delay(500);
-    Serial.print(".");
-  }
-  Serial.println();
-
-  Serial.print("Connected, IP address: ");
-  Serial.println(WiFi.localIP());
-}
-
-void loop() {}
 ```
 3. เปิด command prompt เข้าไปยังโฟลเดอร์ที่มีตัวอย่างโปรแกรม แล้ว **cd ชื่อไฟล์โปรแกรม**
 4. อัปโหลดโปรแกรมลงในไมโครคอนโทรเลอร์ โดยใช้คำสั่ง **pio run -t upload**
